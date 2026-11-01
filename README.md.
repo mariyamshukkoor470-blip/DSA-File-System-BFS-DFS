@@ -1,0 +1,27 @@
+
+# File System Representation and Search Using BFS and DFS
+
+## Project Description
+This project represents a file system using a graph data structure and performs searching using Breadth First Search (BFS) and Depth First Search (DFS).
+
+## Technologies Used
+- C Programming
+- Graph Data Structure
+- Adjacency Matrix
+
+## Algorithms Used
+1. Breadth First Search (BFS)
+2. Depth First Search (DFS)
+
+## Features
+- Represents folders as graph nodes.
+- Uses an adjacency matrix to represent connections.
+- Performs BFS traversal.
+- Performs DFS traversal.
+- Searches for a specified folder.
+
+## How to Run
+Compile and execute the main.c file using a C compiler.
+
+## Author
+Mariyam
